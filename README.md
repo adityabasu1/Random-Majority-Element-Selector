@@ -1,6 +1,6 @@
 # Random-Majority-Element-Selector
 
-Python code to implement a Random Majotity Element Selector and verify convergence of average number of iterations<br />
+Python code to implement a Random Majority Element Selector and verify convergence of average number of iterations<br />
    
 ## **Running The Code** <br />
 Command: ```python3 code.py``` <br />
