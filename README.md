@@ -42,8 +42,18 @@ This is an example of a ```Monte Carlo``` Algorithm:
 - (# iterations) is a geometric random variable with ```p = m/n``` [Since we iterate till we get the majority element] <br />
 - The results we get are in accordance with the Law of Large Numbers 
 i.e with very high number of simulations, the average number of iterations converges to its expected value ```n/m``` <br />
-- We also verify the following using a plot<br />
+- We also verify the following using a ```plot```<br />
+
+## Example Generated Plot:
+![RMES2](https://user-images.githubusercontent.com/60356270/177551544-4f7f14a1-0975-4fe3-b8c9-c7ee0ba5a5af.jpeg)
    
 ## Useful Links <br />
 Related intersting problems on Majority Element: https://cse.iitkgp.ac.in/~abhij/course/lab/Algo1/Autumn14/A8.pdf <br />
+
+
+
+
+
+
+
    
