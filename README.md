@@ -66,5 +66,5 @@ or,(#winning ratio after sticking) as a Bernoulli random variable with p = 1/3 (
 The results we get are in accordance with the ***Law of Large Numbers***<br /> i.e with very high number of simulations, the winning ratio does converge to its expected value
    
 ## Useful Links <br />
-https://cse.iitkgp.ac.in/~abhij/course/lab/Algo1/Autumn14/A8.pdf <br />
+Related intersting problems on Majority Element: https://cse.iitkgp.ac.in/~abhij/course/lab/Algo1/Autumn14/A8.pdf <br />
    
